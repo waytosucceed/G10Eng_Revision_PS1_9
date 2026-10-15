@@ -1,0 +1,536 @@
+{
+  "heading": "Assessment",
+  "topics": [
+    
+ 
+  {
+    "heading": "Conjunctive Adverbs",
+    "questions": [
+      {
+        "questionNo": 1,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Which word in this line from Passage 2 is a conjunctive adverb?<br><i>\"Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel.\"</i>",
+        "options": [
+          {
+            "text": "thus"
+          },
+          {
+            "text": "without"
+          },
+          {
+            "text": "exactly"
+          },
+          {
+            "text": "suited"
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 2,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Fill in the blank with the conjunctive adverb that fits the relationship between the two ideas.<br><i>\"A candle costs a single penny; _______, everything the universe does can be seen at work inside it.\"</i>",
+        "options": [
+          {
+            "text": "consequently"
+          },
+          {
+            "text": "nevertheless"
+          },
+          {
+            "text": "furthermore"
+          },
+          {
+            "text": "meanwhile"
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 3,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Fill in the blank with the conjunctive adverb that fits the relationship between the two ideas.<br><i>\"The taper is extinguished the moment it enters the jar; _______, the air within it has been altered by the flame.\"</i>",
+        "options": [
+          {
+            "text": "however"
+          },
+          {
+            "text": "otherwise"
+          },
+          {
+            "text": "therefore"
+          },
+          {
+            "text": "similarly"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 4,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "A teacher asks the class what relationship the underlined conjunctive adverb shows in this line from Passage 1. What should they answer?<br><i>\"<u>Indeed</u>, there is no better door by which you may enter upon the study of natural philosophy.\"</i>",
+        "options": [
+          {
+            "text": "Contrast, because the second statement disagrees with the first"
+          },
+          {
+            "text": "Time, because one event follows the other"
+          },
+          {
+            "text": "Condition, because the statement depends on something happening first"
+          },
+          {
+            "text": "Emphasis, because the speaker is strengthening the claim he has just made"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 5,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Three of the underlined words below are conjunctive adverbs. Which one is not?",
+        "options": [
+          {
+            "text": "The wax melts, <u>yet </u>it does not run over the edge."
+          },
+          {
+            "text": "The rim is cooled by the rising air; <u>consequently</u>, it stays solid."
+          },
+          {
+            "text": "Nothing solid burns; <u>instead,</u> the vapour takes fire."
+          },
+          {
+            "text": "The column of smoke still holds fuel; <u>therefore</u> the flame can run down it."
+          }
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "heading": "Proper Punctuation",
+    "questions": [
+      {
+        "questionNo": 6,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Which of the following sentences is correctly punctuated?",
+        "options": [
+          {
+            "text": "The wax melts, however it does not spill over the rim."
+          },
+          {
+            "text": "The wax melts however, it does not spill over the rim."
+          },
+          {
+            "text": "The wax melts; however, it does not spill over the rim."
+          },
+          {
+            "text": "The wax melts, however, it does not spill over the rim."
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 7,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Where should a comma be placed in the following sentence?<br><i>\"Because the rising air cools the outer rim the wax at the edge remains solid.\"</i>",
+        "options": [
+          {
+            "text": "After \"because\""
+          },
+          {
+            "text": "After \"rising\""
+          },
+          {
+            "text": "After \"rim\""
+          },
+          {
+            "text": "No comma is needed anywhere in the sentence"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 8,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Which of the following uses the apostrophe correctly?",
+        "options": [
+          {
+            "text": "The candles flame draws the vapour upward from the wicks tip."
+          },
+          {
+            "text": "The candle’s flame draws the vapour upward from the wick’s tip."
+          },
+          {
+            "text": "The candles’ flame draws the vapour upward from the wicks’ tip."
+          },
+          {
+            "text": "The candle’s flame draws the vapour upward from the wicks tip."
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 9,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Which of the following is correctly punctuated?",
+        "options": [
+          {
+            "text": "Faraday demonstrated one principle the flame consumes vapour rather than solid wax."
+          },
+          {
+            "text": "Faraday demonstrated one principle, the flame consumes vapour rather than solid wax."
+          },
+          {
+            "text": "Faraday demonstrated one principle: the flame consumes vapour rather than solid wax."
+          },
+          {
+            "text": "Faraday demonstrated one principle; the flame, consumes vapour rather than solid wax."
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 10,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Which revision correctly fixes the punctuation in this sentence?<br><i>\"Nothing solid ever burns the vapour alone takes fire.\"</i>",
+        "options": [
+          {
+            "text": "Nothing solid ever burns, the vapour alone takes fire."
+          },
+          {
+            "text": "Nothing solid ever burns; the vapour alone takes fire."
+          },
+          {
+            "text": "Nothing solid ever burns the vapour, alone takes fire."
+          },
+          {
+            "text": "Nothing, solid ever burns the vapour alone takes fire."
+          }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "heading": "Words From Context",
+    "questions": [
+      {
+        "questionNo": 11,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Using the context of Passage 4, what does the word \"inconspicuous\" most likely mean?<br><i>\"The greatest results are often obtained by the most inconspicuous means.\"</i>",
+        "options": [
+          {
+            "text": "Expensive and rare"
+          },
+          {
+            "text": "Difficult and dangerous"
+          },
+          {
+            "text": "Not easily noticed or thought important"
+          },
+          {
+            "text": "Recently invented"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 12,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Using the context of Passage 4, what does the word \"contemptible\" most likely mean?<br><i>\"The philosophy of a candle is not made contemptible by the fact that a candle costs a penny.\"</i>",
+        "options": [
+          {
+            "text": "Deserving of scorn or dismissal"
+          },
+          {
+            "text": "Impossible to understand fully"
+          },
+          {
+            "text": "Available to anyone who wishes to buy it"
+          },
+          {
+            "text": "Extremely complicated to explain"
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 13,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Using the context of Passage 5, what does the word \"extinguished\" most likely mean?<br><i>\"Lower a lighted taper into it. You observe that it is at once extinguished.\"</i>",
+        "options": [
+          {
+            "text": "Made to burn more brightly"
+          },
+          {
+            "text": "Lifted out of the jar quickly"
+          },
+          {
+            "text": "Covered over with a lid"
+          },
+          {
+            "text": "Put out, so that it no longer burns"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 14,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Two students discuss the word \"phenomena\" in Passage 1.<br><i>\"There is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.\"<br>&bull;&nbsp;&nbsp;&nbsp;Priya says it means observable events or effects that can be studied.<br>&bull;&nbsp;&nbsp;&nbsp;Rohan says it means mysteries that cannot be explained by science.</i><br>Which student is correct?",
+        "options": [
+          {
+            "text": "Only Rohan"
+          },
+          {
+            "text": "Only Priya"
+          },
+          {
+            "text": "Both students, since the word carries both meanings here"
+          },
+          {
+            "text": "Neither student, since the word refers to the materials a candle is made from"
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 15,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Using the context of Passage 6, which word could replace \"justify\" without changing the meaning?<br><i>\"That you may justify the beauty of your actions by your usefulness to your fellow men.\"</i>",
+        "options": [
+          {
+            "text": "conceal"
+          },
+          {
+            "text": "exaggerate"
+          },
+          {
+            "text": "prove"
+          },
+          {
+            "text": "purchase"
+          }
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "heading": "Non-Fiction Analysis Part 1",
+    "questions": [
+      {
+        "questionNo": 16,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Which language signal most clearly identifies the text type of this line from Passage 3?<br><i>\"The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour only which takes fire.\"</i>",
+        "options": [
+          {
+            "text": "\"capillary attraction\" and \"converted\" — precise technical vocabulary explaining a process, indicating expository non-fiction"
+          },
+          {
+            "text": "\"the vapour only\" — an evaluative judgment indicating argumentative non-fiction"
+          },
+          {
+            "text": "\"drawn up the wick\" — vivid sensory detail indicating descriptive non-fiction"
+          },
+          {
+            "text": "\"is there converted\" — past tense narration indicating narrative non-fiction"
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 17,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "What is the dominant purpose of the text across all six passages?",
+        "options": [
+          {
+            "text": "To persuade the audience that candles should be preferred to gas lighting"
+          },
+          {
+            "text": "To narrate the story of how Faraday first became interested in chemistry"
+          },
+          {
+            "text": "To describe the appearance of a candle flame in vivid sensory detail"
+          },
+          {
+            "text": "To inform the audience how a candle works and to show that ordinary objects reward close study"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 18,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Read the following line from Passage 1.<br><i>\"I purpose, in return for the honour you do us by coming to see what we are about, to bring before you a candle.\"</i><br>What does this line tell us about the audience Faraday is addressing?",
+        "options": [
+          {
+            "text": "Professional chemists attending a meeting of a scientific society"
+          },
+          {
+            "text": "Readers of a published textbook who will never meet the author"
+          },
+          {
+            "text": "A live audience who have chosen to attend, and whom he treats as guests rather than pupils"
+          },
+          {
+            "text": "Government officials who must be convinced to fund his research"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 19,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "What tone does the underlined word carry in this line from Passage 4?<br><i>\"You may <u>perhaps</u> regard these as small matters, scarcely worth an evening.\"</i>",
+        "options": [
+          {
+            "text": "Anxious, as Faraday fears his audience will leave before the lecture ends"
+          },
+          {
+            "text": "Courteous and anticipatory, as Faraday names a doubt politely before answering it"
+          },
+          {
+            "text": "Dismissive, as Faraday mocks those who undervalue his subject"
+          },
+          {
+            "text": "Uncertain, as Faraday is unsure whether the topic is worth studying"
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 20,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Which of the following lines contains the clearest evaluative language signal?",
+        "options": [
+          {
+            "text": "\"A beautiful thing is always more beautiful when we understand it.\""
+          },
+          {
+            "text": "\"The wax is drawn up the wick by capillary attraction.\""
+          },
+          {
+            "text": "\"Here is a jar of the air which has passed through the flame.\""
+          },
+          {
+            "text": "\"Blow out the flame and watch the thin column of smoke.\""
+          }
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "heading": "Non-Fiction Analysis Part 2",
+    "questions": [
+      {
+        "questionNo": 21,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Which rhetorical appeal is dominant in Passage 5?",
+        "options": [
+          {
+            "text": "Ethos, because Faraday refers to his standing as a scientist"
+          },
+          {
+            "text": "Pathos, because the reference to the audience’s lungs is alarming"
+          },
+          {
+            "text": "Logos, because a conclusion is drawn from a demonstration the audience can watch"
+          },
+          {
+            "text": "None of these, because the passage only describes an object"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 22,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Which technique is used in this line from Passage 1, and what effect does it create?<br><i>\"There is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.\"</i>",
+        "options": [
+          {
+            "text": "Rhetorical question, because the audience is asked to consider where science begins"
+          },
+          {
+            "text": "Antithesis, because two opposing ideas are placed in parallel structure"
+          },
+          {
+            "text": "Ethos, because the comparison demonstrates Faraday’s knowledge of architecture"
+          },
+          {
+            "text": "Metaphor, because the candle is called a door, making an entire field of study feel accessible through one small object"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 23,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Read the following two statements from the text.<br><i>&bull;&nbsp;&nbsp;&nbsp;Statement 1: \"Blow out the flame and apply a light to the top of the column of smoke, and the flame will run down it to the wick again.\"<br>&bull;&nbsp;&nbsp;&nbsp;Statement 2: \"A beautiful thing is always more beautiful when we understand it.\"</i><br>Which of the following correctly identifies the nature of each statement?",
+        "options": [
+          {
+            "text": "Statement 1 is an opinion. Statement 2 is a fact."
+          },
+          {
+            "text": "Statement 1 is a fact. Statement 2 is an opinion."
+          },
+          {
+            "text": "Both statements are facts."
+          },
+          {
+            "text": "Both statements are opinions."
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 24,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Which of the following best explains how bias operates in this line from Passage 2?<br><i>\"Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.\"</i>",
+        "options": [
+          {
+            "text": "The line is unbiased, because the cooling of the rim is a verifiable physical process"
+          },
+          {
+            "text": "The line contains bias because Faraday does not name the scientists who first explained the effect"
+          },
+          {
+            "text": "Nature is presented as having made something deliberately for a purpose, which loads an accidental physical effect with intention and design"
+          },
+          {
+            "text": "The line is unbiased, because Faraday presents both the melting and the cooling of the wax"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 25,
+        "story": "<b>The Chemical History of a Candle</b><br>Adapted from a lecture by Michael Faraday<br><br><b>Passage 1</b><br>I propose, in return for the honour you do us by coming to see what we are about, to bring before you a candle. There is not a law under which any part of this universe is governed which does not come into play here. Indeed, there is no better door by which you may enter upon the study of natural philosophy than by considering the physical phenomena of a candle.<br><br><b>Passage 2</b><br>Observe the cup that forms at the top of a burning candle. The wax melts, yet it does not run over the edge. Why? Because the current of hot air rising from the flame cools the outer rim, and consequently the wax there remains solid. Nature has thus made, without any assistance from us, a vessel exactly suited to hold the fuel until it is wanted.<br><br><b>Passage 3</b><br>Now, a candle does not burn wax. Nothing solid ever burns. The wax is drawn up the wick by capillary attraction, is there converted into a vapour, and it is the vapour, and the vapour only, which takes fire. Blow out the flame and watch the thin column of smoke. Apply a light to the top of that column, however, and the flame will run down it to the wick again.<br><br><b>Passage 4</b><br>You may perhaps regard these as small matters, scarcely worth an evening. But I would have you consider that the greatest results are often obtained by the most inconspicuous means. A beautiful thing is always more beautiful when we understand it, and the philosophy of a candle is not made contemptible by the fact that a candle costs a penny.<br><br><b>Passage 5</b><br>Here is a jar of the air which has passed through the flame. Lower a lighted taper into it. You observe that it is at once extinguished. Therefore the candle has taken something out of that air and put something else into it. This is the very exchange that occurs in your own lungs at every breath you draw.<br><br><b>Passage 6</b><br>I have now to wish you a happy new year, and I hope that, as long as you live, you may be judged as the candle is judged: that you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.",
+        "question": "Faraday never states directly what he hopes his listeners will do with their lives. What conclusion can be drawn from the closing lines of Passage 6?<br><i>\"That you may justify the beauty of your actions by your usefulness to your fellow men. Nothing more than that is required of any of us, and nothing less will serve.\"</i>",
+        "options": [
+          {
+            "text": "That a life should be measured by what it gives to others, exactly as a candle is measured by the light it provides"
+          },
+          {
+            "text": "That his listeners should each take up the formal study of chemistry"
+          },
+          {
+            "text": "That beauty in a person matters more than usefulness to anyone else"
+          },
+          {
+            "text": "That the audience should buy better candles in the coming year"
+          }
+        ],
+        "answer": 0
+      }
+    ]
+  }
+
+
+
+
+  ]
+}
